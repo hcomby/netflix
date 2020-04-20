@@ -1,0 +1,114 @@
+.case
+{ 
+	background-color: black;
+	padding: 50px 55px 50px 45px;
+	margin: 30px 40px;
+	max-width: 600px;
+	justify-content: space-between;
+	align-items: center;
+ }
+
+a {
+   text-decoration: none;
+   color: grey;
+}
+
+#card-image2
+{ 
+  background-color: red; background-size: 463px 382px;
+  height: 400px; width: 382px;
+  margin-right: 20px
+ }
+
+
+ #bloc2-animation
+ { 
+   background-color: black;
+   border: 2px solid rgba(255, 255, 255, 0.25); border-radius: 12px;
+   box-shadow: rgb(0,0,0) 0px 0px 4px 0px;
+   height: 95px; width: 340px;
+   margin: 0px 50px 10px 35px;
+   
+   padding: 7px 12px 5px 12px;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+
+
+#download
+{ margin-top: 15px; }
+
+
+
+section h1
+{ 
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 27px;
+ }
+
+
+h2 {
+    font-family: Arial, Verdana;
+    font-weight: 800;
+    color: #091f2f;
+    text-transform: uppercase;
+}
+
+
+.mail
+{ 
+	display: block;
+  margin: 20px -5px 20px 0px;
+  align-items: center;
+  margin-top: -5px;
+}
+
+.mail input
+{
+  margin-left: 80px;
+}
+
+.animation {
+  width: 100%;
+    height: 100%;
+    max-width: 73%;
+    max-height: 54%;
+    position: absolute;
+    top: 46%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.gif {
+  width: 80px;
+  height: 80px;
+  background: url(images/gif-chargement.gif) center center no-repeat;
+  background-size: contain;
+}
+
+.bloc2a
+{ 
+  font-size: 15px;
+  color: rgb(117,117,117);
+  padding: 40px 0px 40px 0px;
+  font-size: 16px;
+ }
+
+
+.pays {
+  width: 350px
+  height: 80px
+  border: solid;
+  border-color: rgb(117,117,117);
+  
+}
+
+
+
+

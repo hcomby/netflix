@@ -1,0 +1,60 @@
+
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/container.css");
+@import url("components/card.css");
+@import url("components/faq.css");
+
+body{
+
+  margin: -5px;
+}
+h1
+{ 
+   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+   font-weight: bold;
+   font-size: 50px;
+   color: white;
+   margin-bottom: 25px;
+
+}
+
+h2
+ {  
+   font-family:  Helvetica Neue, Helvetica, Arial, sans-serif; 
+   font-weight: lighter;
+   font-size: 30px;
+}
+
+ h3 { 
+    font-family:  Helvetica Neue, Helvetica, Arial, sans-serif; 
+    font-weight: lighter;
+    font-size: 26px;
+
+   }
+
+h4 {
+  font-weight: 600;
+  font-size: 20px;
+  font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h5 {
+  font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #0071eb;
+  font-weight: normal;
+  margin-top: -15px
+}
+
+a
+{
+	color: grey;
+	text-decoration: none;
+}
+
+
+/*RESPONSIVE DESIGN */
+
+
+
+

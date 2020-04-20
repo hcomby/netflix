@@ -1,0 +1,42 @@
+.question {
+    display: inline-flex;
+    justify-content: space-between;
+    border: 0;
+    background: rgb(52, 52, 52);
+    width: 800px; height: 76px;
+    margin-bottom: 10px;
+}
+
+.question img {
+  height: 50px
+}
+
+.question h3 {
+  padding-left: 50px
+  text-align: center;
+
+}
+
+.faq
+{
+	display: flex;
+	font-size: 13px;
+}
+
+.bloc2a ul
+{ margin-right: 70px; 
+  padding-left:0;
+}
+.bloc2a li
+{ margin-bottom: 15px; }
+
+
+#langue
+{
+    border: 1px solid #222;
+    border-radius: 2px;
+    width: 138px; height:50px;
+	  align-items: center;
+	  justify-content: space-between;
+	  margin-bottom: 20px;
+}

@@ -1,0 +1,34 @@
+.bloc1
+{ 
+	  background-color: black;
+    border-bottom: 8px solid #222;
+    color: white;
+    display: flex;
+    padding: 21px 32px 88px 32px;
+    flex-basis: auto;
+    align-items: center;
+    justify-content: space-between;
+
+   }
+
+
+ .bloc2
+{ 
+	  font-family: Arial;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    border-bottom: 8px solid #222;
+    color: white;
+    align-items: center;
+    padding: 30px;
+    
+ }
+
+
+
+
+ ul
+{ list-style: none; }
+
+
